@@ -8,6 +8,10 @@ I'm definitely NOT getting a merge conflict for this, am I?
 
 Too new to code ¯\_(ツ)_/¯
 
+
+
+FUUUBAAARRRRRR!!!! (´• ω •`) 
+
 This coding thing is fun, ins't it? 
 
 “This is what Bob & Carol did on Bob’s computer when working on the first feature”
@@ -21,3 +25,4 @@ it all keeps adding up,
 i think im cracking up,
 am i just paranoid
 or am i just stoned git pgit
+
