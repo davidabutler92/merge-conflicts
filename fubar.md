@@ -1,5 +1,3 @@
-
-
 Somethign without merging to main
 
 “This is what Bob & Carol did on Bob’s computer when working on the first feature” 
@@ -9,6 +7,9 @@ I like working on a team like this.
 I'm definitely NOT getting a merge conflict for this, am I?
 
 Too new to code ¯\_(ツ)_/¯
+
+This coding thing is fun, ins't it? 
+
 “This is what Bob & Carol did on Bob’s computer when working on the first feature”
 do you have the time? to listen to me whine? about nothing and everything all at once?
 i am one of those, melodramatic fools
